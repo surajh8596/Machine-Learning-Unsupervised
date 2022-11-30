@@ -3,3 +3,4 @@
 ### 2. Hierarchical Clustering
   a. Agglomerative
   b. Divisive
+### 3. PCA
